@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e0d3018-30f5-4cc3-9c98-956f3c2ab625" name="Default Changelist" comment="" />
+    <list default="true" id="5e0d3018-30f5-4cc3-9c98-956f3c2ab625" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/breakoutgame.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/talot.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/NatunenResume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/NatunenResume.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/etusivu.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/etusivu.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/right-image3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/right-image3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,11 +37,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lmYjKs23vkinw2lK6PeJMA6Baw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -30,10 +60,31 @@
       <workItem from="1608203871296" duration="9976000" />
       <workItem from="1609829056730" duration="16096000" />
       <workItem from="1609963524110" duration="2782000" />
+      <workItem from="1610480313460" duration="8889000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1078" y="256" key="FileChooserDialogImpl" timestamp="1610480397639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1078" y="256" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610480397639" />
   </component>
 </project>
