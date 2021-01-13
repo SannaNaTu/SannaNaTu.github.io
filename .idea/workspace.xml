@@ -21,19 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5e0d3018-30f5-4cc3-9c98-956f3c2ab625" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/Finnkino.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/Finnkino2.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/IMG_20200929_140828.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/VAluuttamuunnin.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/author-image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/ilta.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/left-image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/lomake.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/nepsy.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/page-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/palaute.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/wompatti.JPG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +55,7 @@
       <workItem from="1608203871296" duration="9976000" />
       <workItem from="1609829056730" duration="16096000" />
       <workItem from="1609963524110" duration="2782000" />
-      <workItem from="1610480313460" duration="11478000" />
+      <workItem from="1610480313460" duration="13108000" />
     </task>
     <servers />
   </component>
