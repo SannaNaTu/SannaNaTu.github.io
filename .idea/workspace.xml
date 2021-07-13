@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e0d3018-30f5-4cc3-9c98-956f3c2ab625" name="Default Changelist" comment="" />
+    <list default="true" id="5e0d3018-30f5-4cc3-9c98-956f3c2ab625" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +65,9 @@
       <workItem from="1611691424759" duration="2827000" />
       <workItem from="1611749883511" duration="597000" />
       <workItem from="1611862332288" duration="8998000" />
-      <workItem from="1618475297891" duration="2066000" />
+      <workItem from="1618475297891" duration="2716000" />
+      <workItem from="1620848896300" duration="80000" />
+      <workItem from="1626165775593" duration="1203000" />
     </task>
     <servers />
   </component>
@@ -83,11 +88,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1078" y="256" key="FileChooserDialogImpl" timestamp="1610480397639">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1078" y="256" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610480397639" />
   </component>
 </project>
